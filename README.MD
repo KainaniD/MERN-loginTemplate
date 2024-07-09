@@ -17,4 +17,10 @@ MONGO_PASS
 - set the below variable
 ORIGIN="http://localhost:5173/"
 
+/server
+run command npm i in terminal
+
+/client
+run command npm i in terminal
+
 to start the project, use ./start-project within the root directory
